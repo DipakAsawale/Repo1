@@ -3,5 +3,6 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
     <Label id="label1" text="dipsj"/>
+    <Label id="label2" text="Main branch commit"/>
     </Page>
 </mvc:View>
